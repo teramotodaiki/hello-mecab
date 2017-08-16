@@ -1,0 +1,59 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "6b579b21fa9833ec6b6dc394327099cd",
+    "content-hash": "bde7baa29e0439c34d171409c292e540",
+    "packages": [
+        {
+            "name": "ateliee/mecab",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/ateliee/mecab.git",
+                "reference": "f9983f6a2379e465efed8c6a9ff7f51da9e91f78"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/ateliee/mecab/zipball/f9983f6a2379e465efed8c6a9ff7f51da9e91f78",
+                "reference": "f9983f6a2379e465efed8c6a9ff7f51da9e91f78",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.0.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "meCab\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "ateliee",
+                    "email": "info@ateliee.com",
+                    "homepage": "http://ateliee.com"
+                }
+            ],
+            "description": "mecab reading for php",
+            "homepage": "https://github.com/ateliee/mecab",
+            "time": "2017-01-24 23:35:29"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "ateliee/mecab": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

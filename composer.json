@@ -1,0 +1,13 @@
+{
+  "name": "teramotodaiki/hello-mecab",
+  "description": "MeCab example",
+  "authors": [
+    {
+      "name": "teramotodaiki",
+      "email": "i101323@gmail.com"
+    }
+  ],
+  "require": {
+    "ateliee/mecab": "dev-master"
+  }
+}
